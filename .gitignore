@@ -1,3 +1,7 @@
-discord.txt/
+# Ignore Node.js modules
 node_modules/
-.gitignore/
+
+# Ignore .txt files
+discord.txt
+
+.gitignore
